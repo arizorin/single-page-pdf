@@ -1,5 +1,5 @@
 # Create single file PDF from HTML
-This is a ready to use JS script for converting HTML pages to a signle PDF file (as like on Safari).
+This is a ready to use JS script for converting HTML pages to a single PDF file (as like on Safari).
 There are also several flags to help you get your pdf converted correctly:
 - "multi" - split pdf to multiple pages
 - "transparent" - remove background color
